@@ -1,0 +1,1 @@
+nasm booaloader.asm -f bin -o booaloader.flp
